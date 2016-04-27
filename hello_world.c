@@ -1,10 +1,8 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 int main(void)
 {
-	fprintf(stderr, "hello world!\n");
+	printf("hello world!\n");
 
 	return 0;
 }
